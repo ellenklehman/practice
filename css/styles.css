@@ -1,0 +1,26 @@
+body {
+  font-family: Century, sans-serif;
+  background-color: tan;
+}
+.centered {
+  margin: auto;
+  width: 30%;
+  text-align: center;
+}
+.sidebar{
+  float: right;
+  width: 30%;
+  margin-right: 10%;
+  padding: 10px;
+}
+.products {
+  margin-left: 10%;
+}
+.historical {
+  font-weight: bold;
+}
+
+#bakerypic {
+  width: 400px;
+  height: 300px;
+}
